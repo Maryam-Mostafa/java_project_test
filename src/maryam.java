@@ -4,9 +4,9 @@ public class maryam {
     {
         System.out.println("hello first try ");
     }
-    void fun2()
+    void fun3333()
     {
-        System.out.println("hello second try ");
+        System.out.println("hello 888 try ");
     }
 }
 
